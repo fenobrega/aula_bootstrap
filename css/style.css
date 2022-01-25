@@ -2,12 +2,13 @@ body {
     font: 20px arial, sans-serif;
 }
 .navbar {
-    background-color: #48C9B0;
+    background-color: #C71852;
+    color: #fafafa;
 }
 
 .quem-somos {
-    background-color: royalblue;
-    color: seashell;
+    background-color: #1E305F;
+    color: #fafafa;
 }
 
 .margin {
@@ -16,7 +17,12 @@ body {
 }
 
 .parceiros {
-    background-color: #2874A6;
+    background-color: #1E305F;
+    color: #fafafa;
+}
+
+.serviços {
+    background-color: #fafafa;
 }
 
 .bg-footer {
